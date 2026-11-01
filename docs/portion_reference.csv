@@ -1,0 +1,11 @@
+Food,Reference serving assumption,Unit,Source/verification note
+Idli,2.5 pieces × ~40 g = ~100 g/person,Planning assumption,2–3 medium idlis per person; underlying piece mass remains ~40 g; restaurant portions vary
+Dosa,2.5 pieces × ~80 g = ~200 g/person,Planning assumption,2–3 medium dosas per person; underlying piece mass remains ~80 g; restaurant portions vary
+Roti,2.5 pieces × ~45 g = ~112.5 g/person,Planning assumption,2–3 rotis per person; underlying piece mass remains ~45 g; restaurant portions vary
+Poori,3 pieces × ~50 g = ~150 g/person,Planning assumption,About 3 medium pooris per person; underlying piece mass remains ~50 g; restaurant portions vary
+Burger,1 burger × ~220 g = ~220 g/person,Planning assumption,One burger per person; underlying burger mass remains ~220 g; restaurant portions vary
+Cooked rice,158,g per cup,USDA FoodData Central reference commonly reported around 158 g per cup cooked rice
+Pongal,300,g per serving,Chennai food-service listing gives 300 g pongal serving; practical restaurant reference, not universal standard
+Upma,250,g per serving,Chennai food-service listing gives 250 g upma serving; practical restaurant reference, not universal standard
+Chicken biryani,405,g per serving,Chennai food-service listing gives 405 g for a biryani serving; restaurant portions vary widely
+Other dishes,Project-specific assumption,configured per item,No single authoritative Indian standard was found; replace with measured restaurant serving mass

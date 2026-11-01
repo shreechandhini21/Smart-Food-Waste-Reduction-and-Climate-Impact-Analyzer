@@ -1,0 +1,39 @@
+{
+  "selected_model": "XGBoost",
+  "validation_metrics": [
+    {
+      "MAE_kg": 2.72571543565156,
+      "RMSE_kg": 4.095358066280488,
+      "R2": 0.9081082352868093,
+      "Model": "XGBoost"
+    },
+    {
+      "MAE_kg": 2.7509245420011323,
+      "RMSE_kg": 4.132525839407388,
+      "R2": 0.9064327233335584,
+      "Model": "Random Forest"
+    },
+    {
+      "MAE_kg": 2.9797551099744184,
+      "RMSE_kg": 4.489872244493752,
+      "R2": 0.8895512510166801,
+      "Model": "Decision Tree"
+    },
+    {
+      "MAE_kg": 3.7608325853498683,
+      "RMSE_kg": 4.968004318437707,
+      "R2": 0.8647750706888354,
+      "Model": "Linear Regression"
+    }
+  ],
+  "final_test_metrics": {
+    "MAE_kg": 2.5920432941221967,
+    "RMSE_kg": 3.8552151104320265,
+    "R2": 0.9137026674186794
+  },
+  "split_dates": {
+    "validation_start": "2025-06-03",
+    "test_start": "2025-09-16"
+  },
+  "note": "Synthetic controlled benchmark; not real-world evidence."
+}

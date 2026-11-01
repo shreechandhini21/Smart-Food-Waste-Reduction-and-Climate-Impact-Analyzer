@@ -1,0 +1,105 @@
+Restaurant_ID,Item_ID,Item_Name,Meal_Type,Food_Category,Serving_Mass_g,Emission_Factor_kgCO2e_per_kg,Quantity_Unit,Portions_Per_Person
+R001,R001_01,Idli,Breakfast,Grain,40.0,1.5,kg,2.5
+R001,R001_02,Dosa,Breakfast,Grain,80.0,1.5,kg,1.5
+R001,R001_03,Vada,Breakfast,Grain,45.0,1.5,kg,1.0
+R001,R001_04,Sambar,Side,Vegetarian,150.0,1.0,L,1.0
+R001,R001_05,Curd Rice,Lunch,Dairy,180.0,2.0,kg,1.0
+R001,R001_06,Lemon Rice,Lunch,Rice,180.0,1.8,kg,1.0
+R001,R001_07,Poori,Breakfast,Bread,50.0,1.6,kg,1.0
+R001,R001_08,Filter Coffee,Beverage,Beverage,180.0,0.4,L,1.0
+R002,R002_01,Rice Bowl,Lunch,Rice,300.0,1.8,kg,1.0
+R002,R002_02,Paneer Bowl,Lunch,Dairy,300.0,2.2,kg,1.0
+R002,R002_03,Veg Wrap,Lunch,Vegetarian,180.0,1.2,kg,1.0
+R002,R002_04,Noodles,Lunch,Grain,250.0,1.7,kg,1.0
+R002,R002_05,Pasta,Lunch,Grain,250.0,1.7,kg,1.0
+R002,R002_06,Salad,Lunch,Vegetarian,180.0,0.8,kg,1.0
+R002,R002_07,Soup,Lunch,Vegetarian,250.0,0.8,L,1.0
+R002,R002_08,Cold Coffee,Beverage,Dairy,250.0,1.0,L,1.0
+R003,R003_01,Idli,Breakfast,Grain,40.0,1.5,kg,2.5
+R003,R003_02,Pongal,Breakfast,Grain,200.0,1.5,kg,1.0
+R003,R003_03,Dosa,Breakfast,Grain,80.0,1.5,kg,1.5
+R003,R003_04,Veg Meals,Lunch,Vegetarian,450.0,1.7,kg,1.0
+R003,R003_05,Sambar,Side,Vegetarian,150.0,1.0,L,1.0
+R003,R003_06,Rasam,Side,Vegetarian,150.0,0.8,L,1.0
+R003,R003_07,Curd Rice,Lunch,Dairy,180.0,2.0,kg,1.0
+R003,R003_08,Lemon Juice,Beverage,Beverage,250.0,0.4,L,1.0
+R004,R004_01,Biryani,Lunch,Rice,350.0,1.8,kg,1.0
+R004,R004_02,Chicken Curry,Lunch,Meat,220.0,5.5,kg,1.0
+R004,R004_03,Veg Meals,Lunch,Vegetarian,450.0,1.7,kg,1.0
+R004,R004_04,Roti,Lunch,Bread,45.0,1.6,kg,2.0
+R004,R004_05,Paneer Bowl,Lunch,Dairy,300.0,2.2,kg,1.0
+R004,R004_06,Fried Rice,Lunch,Rice,300.0,1.8,kg,1.0
+R004,R004_07,Noodles,Lunch,Grain,250.0,1.7,kg,1.0
+R004,R004_08,Lassi,Beverage,Dairy,250.0,1.2,L,1.0
+R005,R005_01,Burger,Lunch,Meat,220.0,5.5,kg,1.0
+R005,R005_02,Chicken Rice,Lunch,Meat,300.0,5.0,kg,1.0
+R005,R005_03,Egg Rice,Lunch,Egg,280.0,3.0,kg,1.0
+R005,R005_04,Sandwich,Snack,Bread,180.0,1.6,kg,1.0
+R005,R005_05,French Fries,Snack,Vegetarian,150.0,1.2,kg,1.0
+R005,R005_06,Noodles,Lunch,Grain,250.0,1.7,kg,1.0
+R005,R005_07,Tea,Beverage,Beverage,180.0,0.4,L,1.0
+R005,R005_08,Coffee,Beverage,Beverage,180.0,0.4,L,1.0
+R006,R006_01,Dosa,Breakfast,Grain,80.0,1.5,kg,1.5
+R006,R006_02,Pasta,Lunch,Grain,250.0,1.7,kg,1.0
+R006,R006_03,Sandwich,Snack,Bread,180.0,1.6,kg,1.0
+R006,R006_04,Salad,Lunch,Vegetarian,180.0,0.8,kg,1.0
+R006,R006_05,Soup,Lunch,Vegetarian,250.0,0.8,L,1.0
+R006,R006_06,Veg Wrap,Lunch,Vegetarian,180.0,1.2,kg,1.0
+R006,R006_07,Muffin,Snack,Bakery,90.0,1.5,kg,1.0
+R006,R006_08,Cold Coffee,Beverage,Dairy,250.0,1.0,L,1.0
+R007,R007_01,Veg Meals,Lunch,Vegetarian,450.0,1.7,kg,1.0
+R007,R007_02,Chicken Curry,Lunch,Meat,220.0,5.5,kg,1.0
+R007,R007_03,Fish Meal,Lunch,Fish,350.0,6.0,kg,1.0
+R007,R007_04,Roti,Lunch,Bread,45.0,1.6,kg,2.0
+R007,R007_05,Rice Bowl,Lunch,Rice,300.0,1.8,kg,1.0
+R007,R007_06,Dal Rice,Lunch,Grain,300.0,1.6,kg,1.0
+R007,R007_07,Curd Rice,Lunch,Dairy,180.0,2.0,kg,1.0
+R007,R007_08,Payasam,Dessert,Dairy,150.0,1.5,kg,1.0
+R008,R008_01,Idli,Breakfast,Grain,40.0,1.5,kg,2.5
+R008,R008_02,Vada,Breakfast,Grain,45.0,1.5,kg,1.0
+R008,R008_03,Pongal,Breakfast,Grain,200.0,1.5,kg,1.0
+R008,R008_04,Dosa,Breakfast,Grain,80.0,1.5,kg,1.5
+R008,R008_05,Sambar,Side,Vegetarian,150.0,1.0,L,1.0
+R008,R008_06,Rasam Rice,Lunch,Rice,250.0,1.6,kg,1.0
+R008,R008_07,Poori,Breakfast,Bread,50.0,1.6,kg,1.0
+R008,R008_08,Filter Coffee,Beverage,Beverage,180.0,0.4,L,1.0
+R009,R009_01,Biryani,Lunch,Rice,350.0,1.8,kg,1.0
+R009,R009_02,Chicken Rice,Lunch,Meat,300.0,5.0,kg,1.0
+R009,R009_03,Paneer Rice,Lunch,Dairy,300.0,2.2,kg,1.0
+R009,R009_04,Noodles,Lunch,Grain,250.0,1.7,kg,1.0
+R009,R009_05,Pasta,Lunch,Grain,250.0,1.7,kg,1.0
+R009,R009_06,Burger,Lunch,Meat,220.0,5.5,kg,1.0
+R009,R009_07,Veg Wrap,Lunch,Vegetarian,180.0,1.2,kg,1.0
+R009,R009_08,Juice,Beverage,Beverage,250.0,0.5,L,1.0
+R010,R010_01,Idli,Breakfast,Grain,40.0,1.5,kg,2.5
+R010,R010_02,Dosa,Breakfast,Grain,80.0,1.5,kg,1.5
+R010,R010_03,Meals,Lunch,Vegetarian,450.0,1.7,kg,1.0
+R010,R010_04,Curd Rice,Lunch,Dairy,180.0,2.0,kg,1.0
+R010,R010_05,Lemon Rice,Lunch,Rice,180.0,1.8,kg,1.0
+R010,R010_06,Roti,Lunch,Bread,45.0,1.6,kg,2.0
+R010,R010_07,Tea,Beverage,Beverage,180.0,0.4,L,1.0
+R010,R010_08,Coffee,Beverage,Beverage,180.0,0.4,L,1.0
+R011,R011_01,Biryani,Lunch,Rice,350.0,1.8,kg,1.0
+R011,R011_02,Paneer Bowl,Lunch,Dairy,300.0,2.2,kg,1.0
+R011,R011_03,Roti,Lunch,Bread,45.0,1.6,kg,2.0
+R011,R011_04,Dal Rice,Lunch,Grain,300.0,1.6,kg,1.0
+R011,R011_05,Noodles,Lunch,Grain,250.0,1.7,kg,1.0
+R011,R011_06,Sandwich,Snack,Bread,180.0,1.6,kg,1.0
+R011,R011_07,Tea,Beverage,Beverage,180.0,0.4,L,1.0
+R011,R011_08,Juice,Beverage,Beverage,250.0,0.5,L,1.0
+R012,R012_01,Oats Bowl,Breakfast,Grain,250.0,1.3,kg,1.0
+R012,R012_02,Salad,Lunch,Vegetarian,180.0,0.8,kg,1.0
+R012,R012_03,Veg Wrap,Lunch,Vegetarian,180.0,1.2,kg,1.0
+R012,R012_04,Soup,Lunch,Vegetarian,250.0,0.8,L,1.0
+R012,R012_05,Pasta,Lunch,Grain,250.0,1.7,kg,1.0
+R012,R012_06,Fruit Cup,Snack,Fruit,180.0,0.6,kg,1.0
+R012,R012_07,Muffin,Snack,Bakery,90.0,1.5,kg,1.0
+R012,R012_08,Smoothie,Beverage,Fruit,300.0,0.7,L,1.0
+R013,R013_01,Pasta,Lunch,Grain,250.0,1.7,kg,1.0
+R013,R013_02,Noodles,Lunch,Grain,250.0,1.7,kg,1.0
+R013,R013_03,Dosa,Breakfast,Grain,80.0,1.5,kg,1.0
+R013,R013_04,Rice Bowl,Lunch,Rice,300.0,1.8,kg,1.0
+R013,R013_05,Veg Meals,Lunch,Vegetarian,450.0,1.7,kg,1.0
+R013,R013_06,Roti,Lunch,Bread,45.0,1.6,kg,1.0
+R013,R013_07,Biryani,Lunch,Rice,350.0,1.8,kg,1.0
+R013,R013_08,Soup,Lunch,Vegetarian,250.0,0.8,L,1.0

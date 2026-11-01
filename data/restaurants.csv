@@ -1,0 +1,14 @@
+Restaurant_ID,Restaurant_Name,Location,Phone,Email
+R001,Chennai Tiffin House,T Nagar,044-40010001,contact@tch.example
+R002,Velachery Bowl Cafe,Velachery,044-40010002,contact@vbc.example
+R003,Adyar Green Kitchen,Adyar,044-40010003,contact@agk.example
+R004,Anna Nagar Meals,Anna Nagar,044-40010004,contact@anm.example
+R005,Guindy Quick Bites,Guindy,044-40010005,contact@gqb.example
+R006,Besant Nagar Cafe,Besant Nagar,044-40010006,contact@bnc.example
+R007,Porur Family Kitchen,Porur,044-40010007,contact@pfk.example
+R008,Mylapore Traditional Foods,Mylapore,044-40010008,contact@mtf.example
+R009,Sholinganallur Cloud Kitchen,Sholinganallur,044-40010009,contact@sck.example
+R010,Tambaram Campus Canteen,Tambaram,044-40010010,contact@tcc.example
+R011,Nungambakkam Food Corner,Nungambakkam,044-40010011,contact@nfc.example
+R012,OMR Healthy Cafe,OMR,044-40010012,contact@ohc.example
+R013,SS Food Corner,Alandur,044-40010013,contact@sss.example
