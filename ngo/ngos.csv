@@ -1,0 +1,35 @@
+ngo_id,name,location,email,phone,capacity_servings
+N001,Chennai Food Rescue T Nagar,T Nagar,ngo.tnagar@example.org,9000000001,100
+N002,T Nagar Community Kitchen,T Nagar,ngo.tnagar2@example.org,9000000002,80
+N003,Velachery Food Share,Velachery,ngo.velachery@example.org,9000000003,120
+N004,Velachery Community Kitchen,Velachery,ngo.velachery2@example.org,9000000004,90
+N005,Adyar Meal Support,Adyar,ngo.adyar@example.org,9000000005,100
+N006,Adyar Community Food Bank,Adyar,ngo.adyar2@example.org,9000000006,80
+N007,Anna Nagar Food Rescue,Anna Nagar,ngo.annanagar@example.org,9000000007,120
+N008,Anna Nagar Community Kitchen,Anna Nagar,ngo.annanagar2@example.org,9000000008,100
+N009,Guindy Food Share,Guindy,ngo.guindy@example.org,9000000009,90
+N010,Besant Nagar Food Rescue,Besant Nagar,ngo.besant@example.org,9000000010,100
+N011,Porur Community Kitchen,Porur,ngo.porur@example.org,9000000011,100
+N012,Mylapore Food Support,Mylapore,ngo.mylapore@example.org,9000000012,90
+N013,Sholinganallur Food Rescue,Sholinganallur,ngo.sholinganallur@example.org,9000000013,100
+N014,Tambaram Community Kitchen,Tambaram,ngo.tambaram@example.org,9000000014,100
+N015,Nungambakkam Food Share,Nungambakkam,ngo.nungambakkam@example.org,9000000015,90
+N016,OMR Community Food Bank,OMR,ngo.omr@example.org,9000000016,120
+N100,Besant Nagar Community Kitchen,Besant Nagar,ngo100@example.org,9000000100,100
+N101,Besant Nagar Food Rescue,Besant Nagar,ngo101@example.org,9000000101,100
+N102,Guindy Community Kitchen,Guindy,ngo102@example.org,9000000102,100
+N103,Guindy Food Rescue,Guindy,ngo103@example.org,9000000103,100
+N104,Mylapore Community Kitchen,Mylapore,ngo104@example.org,9000000104,100
+N105,Mylapore Food Rescue,Mylapore,ngo105@example.org,9000000105,100
+N106,Nungambakkam Community Kitchen,Nungambakkam,ngo106@example.org,9000000106,100
+N107,Nungambakkam Food Rescue,Nungambakkam,ngo107@example.org,9000000107,100
+N108,OMR Community Kitchen,OMR,ngo108@example.org,9000000108,100
+N109,OMR Food Rescue,OMR,ngo109@example.org,9000000109,100
+N110,Porur Community Kitchen,Porur,ngo110@example.org,9000000110,100
+N111,Porur Food Rescue,Porur,ngo111@example.org,9000000111,100
+N112,Sholinganallur Community Kitchen,Sholinganallur,ngo112@example.org,9000000112,100
+N113,Sholinganallur Food Rescue,Sholinganallur,ngo113@example.org,9000000113,100
+N114,Tambaram Community Kitchen,Tambaram,ngo114@example.org,9000000114,100
+N115,Tambaram Food Rescue,Tambaram,ngo115@example.org,9000000115,100
+DEMO01,Demo NGO 1 - Guide Test,DEMO,itzsush7@gmail.com,9000000201,100
+DEMO02,Demo NGO 2 - Guide Test,DEMO,sreejakumar2107@gmail.com,9000000202,100
