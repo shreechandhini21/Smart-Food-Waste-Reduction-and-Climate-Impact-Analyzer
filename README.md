@@ -3,28 +3,7 @@
 # 
 
 # An intelligent, data-driven platform for forecasting food demand, optimizing food preparation, estimating food waste, understanding its potential environmental impact, and facilitating surplus-food redistribution through NGO coordination.
-
-# 
-
-# \## 🎬 Website Trailer
-
-# 
-
-# Watch the project demonstration to explore the dashboard, demand forecasting, waste analysis, climate impact estimation, and NGO coordination workflow.
-
-# 
-
-# \[!\[Food Waste Reduction and Climate Impact Analyzer – Project Demo](https://img.youtube.com/vi/cuXB2p4slV4/hqdefault.jpg)](https://youtu.be/cuXB2p4slV4)
-
-# 
-
-# ▶ \*\*\[Watch the Full Project Demonstration](https://youtu.be/cuXB2p4slV4)\*\*
-
-# 
-
-# \---
-
-# 
+#
 
 # \## 📌 Project Overview
 
