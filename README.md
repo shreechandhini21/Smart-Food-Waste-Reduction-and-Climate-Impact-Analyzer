@@ -1,11 +1,11 @@
-# \# 🌱 Food Waste Reduction and Climate Impact Analyzer
+#  \🌱 Food Waste Reduction and Climate Impact Analyzer
 
 # 
 
 # An intelligent, data-driven platform for forecasting food demand, optimizing food preparation, estimating food waste, understanding its potential environmental impact, and facilitating surplus-food redistribution through NGO coordination.
 #
 
-# \## 📌 Project Overview
+# \📌 Project Overview
 
 # 
 
@@ -21,11 +21,11 @@
 
 # 
 
-# \## ✨ Key Features
+#  \✨ Key Features
 
 # 
 
-# \### 1. Restaurant and Menu Management
+#  1. Restaurant and Menu Management
 
 # \- Includes 12 sample Chennai restaurants, cafés, and canteens.
 
@@ -37,7 +37,7 @@
 
 # 
 
-# \### 2. Historical Demand Generation
+# \ 2. Historical Demand Generation
 
 # \- Generates two years of synthetic historical demand data.
 
@@ -59,7 +59,7 @@
 
 # 
 
-# \### 3. Machine Learning-Based Demand Forecasting
+# \ 3. Machine Learning-Based Demand Forecasting
 
 # 
 
@@ -91,7 +91,7 @@
 
 # 
 
-# \### 4. Demand and Food Preparation Estimation
+# \ 4. Demand and Food Preparation Estimation
 
 # \- Predicts demand for a selected restaurant and menu item.
 
@@ -117,7 +117,7 @@
 
 # 
 
-# \### 5. Food Waste and Climate Impact Analysis
+# \ 5. Food Waste and Climate Impact Analysis
 
 # \- Estimates expected food waste.
 
@@ -133,7 +133,7 @@
 
 # 
 
-# \### 6. Waste Management Recommendations
+# \ 6. Waste Management Recommendations
 
 # \- Provides category-based waste-management guidance.
 
@@ -143,7 +143,7 @@
 
 # 
 
-# \### 7. NGO-Based Food Redistribution
+# \ 7. NGO-Based Food Redistribution
 
 # 
 
@@ -187,7 +187,7 @@
 
 # 
 
-# \## 🏗️ System Workflow
+# \ 🏗️ System Workflow
 
 # 
 
@@ -265,7 +265,7 @@
 
 # 
 
-# \## 🛠️ Technology Stack
+# \ 🛠️ Technology Stack
 
 # 
 
@@ -293,7 +293,7 @@
 
 # 
 
-# \## 📂 Project Structure
+# \ 📂 Project Structure
 
 # 
 
@@ -353,11 +353,11 @@
 
 # 
 
-# \## ⚙️ Installation and Setup
+# \ ⚙️ Installation and Setup
 
 # 
 
-# \### Prerequisites
+# \ Prerequisites
 
 # 
 
@@ -371,7 +371,7 @@
 
 # 
 
-# \### 1. Clone the Repository
+# \ 1. Clone the Repository
 
 # 
 
@@ -395,7 +395,7 @@
 
 # 
 
-# \### 2. Create a Virtual Environment
+# \ 2. Create a Virtual Environment
 
 # 
 
@@ -411,7 +411,7 @@
 
 # 
 
-# \### 3. Activate the Environment
+# \ 3. Activate the Environment
 
 # 
 
@@ -435,7 +435,7 @@
 
 # 
 
-# \### 4. Install Dependencies
+# \ 4. Install Dependencies
 
 # 
 
@@ -447,7 +447,7 @@
 
 # 
 
-# \### 5. Train the Machine Learning Models
+# \ 5. Train the Machine Learning Models
 
 # 
 
@@ -459,7 +459,7 @@
 
 # 
 
-# \### 6. Run the Tests
+# \ 6. Run the Tests
 
 # 
 
@@ -471,7 +471,7 @@
 
 # 
 
-# \### 7. Launch the Streamlit Dashboard
+# \ 7. Launch the Streamlit Dashboard
 
 # 
 
@@ -499,7 +499,7 @@
 
 # 
 
-# \## 📧 SMTP Email Configuration
+# \ 📧 SMTP Email Configuration
 
 # 
 
@@ -529,7 +529,7 @@
 
 # 
 
-# \### Gmail SMTP Setup
+# \ Gmail SMTP Setup
 
 # 
 
@@ -563,7 +563,7 @@
 
 # 
 
-# \## 🍽️ Portion-Size Assumptions
+# \ 🍽️ Portion-Size Assumptions
 
 # 
 
@@ -579,7 +579,7 @@
 
 # 
 
-# \## 📊 Research and Evaluation Transparency
+# \ 📊 Research and Evaluation Transparency
 
 # 
 
@@ -607,7 +607,7 @@
 
 # 
 
-# \## 🌍 Sustainability and Food Safety Considerations
+# \ 🌍 Sustainability and Food Safety Considerations
 
 # 
 
@@ -635,7 +635,7 @@
 
 # 
 
-# \## 🚀 Future Research and Development
+# \ 🚀 Future Research and Development
 
 # 
 
@@ -658,20 +658,6 @@
 # 
 
 # These are potential future directions and should not be interpreted as already implemented capabilities.
-
-# 
-
-# \## 👩‍💻 Author
-
-# 
-
-# \*\*Shree Chandhini S.\*\*
-
-# 
-
-# M.Sc. Data Science  
-
-# Vellore Institute of Technology (VIT), Chennai
 
 # 
 
